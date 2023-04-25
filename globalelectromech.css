@@ -1,0 +1,81 @@
+	li{
+    		list-style-type: none;
+    	}
+         a{
+    		color: white;
+    		text-decoration: none;
+    	}
+    	i{
+    		color: white;
+    		padding: 10px;
+    	}
+      .icon{
+        font-size: 30px;
+        margin-left:90px;
+      }
+      .navbar{
+        border-top: 1px solid black;
+        margin-top: 10px;
+      }
+      .nav{
+      	margin-top: -10px;
+      }
+      .buttonnav:hover{
+      	background-color: blue;
+      }
+      .email{
+         font-size: 15px; 
+         margin-top: 8px;
+      }
+      .call{
+         font-size: 15px; 
+         margin-top: 8px;
+      }
+      .carousel{
+      	z-index: 1;
+      }
+       .box{
+           background-color: #f3f3f3;
+           padding: 1px 10px;
+      }
+       .boxicon{
+        font-size: 30px;
+      } 
+      .box:hover{
+        background-color: rgb(78, 200, 219);
+        color: white;
+      }
+    
+      .progress{
+         height: 2px;
+         margin-top: 50px;
+      }
+      .progress-bar{
+         height: 7px;
+         width: 40%;
+         background-color: red;
+      }
+      .services{
+      	background-color: #f1f1f1;
+      	margin-bottom: 20px;
+      }
+      .servicescontainer{
+      	background-color: #f1f1f1;
+      }
+      .card-body:hover{
+      	background-color: blue;
+      }
+       .numberscontainer{
+       /* padding: 10px 10px;*/
+       height: 300px;
+      padding-top: 70px;
+      margin-top: 50px;
+      }
+         .footer{
+         border-top: 1px solid white;
+         margin-top: -50px;
+      }
+       .footericon{
+        margin-left: 1270px;
+        padding: 7px 10px;
+      }
